@@ -87,15 +87,16 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-7.png">
 </p> 
 
-<img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.5.PNG?raw=true">
+![](https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.5.PNG?raw=true")
 
 
 * ใช้ Pen ร่วมกับ Brush  
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-8.png">
+
 </p> 
 
-<img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.6.PNG?raw=true">
+![](https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.6.PNG?raw=true")
 
 
 * ใช้ Pen ร่วมกับ HatchBrush  เพื่อสร้างลายเส้นแบบต่างๆ
@@ -103,27 +104,22 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-9.png">
 </p> 
  
- <img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.7.PNG?raw=true">
+![](https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.7.PNG?raw=true")
 
 
 ##คำถาม/แบบฝึกหัดท้ายการทดลอง
 * ให้เปลี่ยน Color และ HatchStyle เป็นแบบต่างๆ เพื่อดูความเปลี่ยนแปลง 
  * เลือกรูปแบจาก [MSDN: HatchStyle Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.hatchstyle(v=vs.110).aspx) แล้ววาดภาพมาส่งอย่างน้อย 6 รูปแบบ 
  
- <img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.8.PNG?raw=true">
- 
- 
-<img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.9.PNG?raw=true">
+![](https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.8.PNG?raw=true")
 
+![](https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.9.PNG?raw=true")
 
-<img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.10.PNG?raw=true">
+![](https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.10.PNG?raw=true")
 
+![](https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.11.PNG?raw=true")
 
-<img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.11.PNG?raw=true">
+![](https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.12.PNG?raw=true")
 
-
-<img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.12.PNG?raw=true">
-
-
-<img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.13.PNG?raw=true">
+![](https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.13.PNG?raw=true")
 
