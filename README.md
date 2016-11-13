@@ -63,7 +63,7 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-4.png">
 </p> 
 
- <img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.2.PNG?raw=true">
+![](https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.2.PNG?raw=true")
 
 ####2.5.2.	โดยการใช้ methode FromName 
 * เพิ่ม Code ต่อไปนี้ลงในฟังก์ชัน private void Form1_Paint(object sender, PaintEventArgs e) แล้วทดลอง Run โปรแกรม
@@ -71,14 +71,15 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-5.png">
 </p> 
 
-<img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.3.PNG?raw=true">
+![](https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.3.PNG?raw=true")
 
 ####2.5.3. การทดลองย่อย 3  -- การใช้ปากกา
 * การทดลองเปลี่ยนขนาดและสีของปากกา โดยใช้ properties Width และ Color
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-6.png">
 
-<img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.4.PNG?raw=true">
+
+![](https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.4.PNG?raw=true")
 
 </p> 
 * เปลี่ยนชนิดของปากกาเป็นเส้นประ
@@ -124,5 +125,5 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.12.PNG?raw=true">
 
 
-<img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.1.PNG?raw=true">
+<img src =" https://github.com/Hathaichanok241/LAB-09/blob/master/imgs/9.13.PNG?raw=true">
 
